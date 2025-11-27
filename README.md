@@ -15,5 +15,5 @@ Feel free to connect with me, I have only one prerequisite:  you’ve got that g
 - 📫 How to reach me: far.ned.me@gmail.com
 
 
-### languages
-![Langs](https://github-readme-stats.vercel.app/api/langs/?username=fffarzan&size_weight=0.5&count_weight=0.5)
+### Some info
+![Farzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fffarzan&commits_year=2019)
