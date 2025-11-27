@@ -14,7 +14,7 @@ Feel free to connect with me, I have only one prerequisite:  you’ve got that g
 - ⚡ Fun fact: I'm a metalhead
 
 ## Contact With Me
-- [My Email](far.ned.me@gmail.com)
+- [My Email](mailto:far.ned.me@gmail.com)
 - [My Linkedin Profile](https://www.linkedin.com/in/farzan-nedaei/)
 
 ### Some info
