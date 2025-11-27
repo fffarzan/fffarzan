@@ -13,3 +13,6 @@ Feel free to connect with me, I have only one prerequisite:  you’ve got that g
 - ⚡ Fun fact: I'm originally an electronic engineer, super eager to build hardwares!
 - ⚡ Fun fact: I'm a metalhead
 - 📫 How to reach me: far.ned.me@gmail.com
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fffarzan&size_weight=0.5&count_weight=0.5)
