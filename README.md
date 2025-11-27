@@ -12,7 +12,9 @@ Feel free to connect with me, I have only one prerequisite:  you’ve got that g
   
 - ⚡ Fun fact: I'm originally an electronic engineer, super eager to build hardwares!
 - ⚡ Fun fact: I'm a metalhead
-- 📫 How to reach me: far.ned.me@gmail.com
+
+## Contact With Me
+- 📫 Email: [far.ned.me@gmail.com](far.ned.me@gmail.com)
 
 
 ### Some info
