@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Farzan - Triple F 🤘
 
-<!--
-**fffarzan/fffarzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yeah, it's me! A guy who just wants to change the world. I don’t know how yet, but I’m seriously trying.
 
-Here are some ideas to get you started:
+Right now, I'm working with programming languages, web development, and all that cool stuff to make small but meaningful improvements. I'm continuesly preparing myself for bigger challenges, not just a routine 9-5 job for the rest of my life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect with me, I have only one prerequisite:  you’ve got that gut feeling that you can change the world too 😉
+
+- 🔭 I’m currently working on frontend, frontend bro!
+- 🌱 I’m currently learning Backend, the whole process of web development.
+- 👯 Looking to collaborate on talented open-source projects and new brilliant ideas,
+  
+- ⚡ Fun fact: I'm originally an electronic engineer, super eager to build hardwares!
+- ⚡ Fun fact: I'm a metalhead
+- 📫 How to reach me: far.ned.me@gmail.com
