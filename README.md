@@ -10,7 +10,7 @@ Feel free to connect with me, I have only one prerequisite:  you’ve got that g
 - 🌱 I’m currently learning Backend, the whole process of web development.
 - 👯 Looking to collaborate on talented open-source projects and new brilliant ideas,
   
-- ⚡ Fun fact: I'm originally an electronic engineer, super eager to build hardwares!
+- ⚡ Fun fact: I'm originally an electronic engineer, super eager to build hardware and write embedded code!
 - ⚡ Fun fact: I'm a metalhead
 
 ## Contact With Me
